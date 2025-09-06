@@ -1,6 +1,6 @@
 # Lounge - Free Responsive HTML Restaurant Website Template
 
-#### Preview  OK OK
+#### Preview  
 
  - [Demo](https://themewagon.github.io/Lounge/)
 
